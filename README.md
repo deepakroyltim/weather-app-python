@@ -15,6 +15,10 @@ This is a simple weather application built using Python and the Tkinter library.
 - ttkbootstrap
 - OpenWeatherMap API
 
+## Need to create an API Key on openweathermap (.env)
+
+Need to create an API Key on openweathermap.org. Create an .env file and put your key to API_KEY
+
 ## How to Run
 
 1. Clone the repository:
